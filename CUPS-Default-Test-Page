@@ -1,0 +1,2 @@
+Hello Mint Team.
+I am reporting a bug with the /usr/share/cups/data/default-testpage.pdf file. It is malformed. a)it is 10 times as big as the same file in Ubuntu 18.04. B) When you try to "print Test Page" from the CUPS utility system-config-printer (version 1.5.11) you get an error "Filter Failed". I have posted about this on the Mint Forums. The current workaround is to use the file from Ubuntu, or some other accetpable PDF.
