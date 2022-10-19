@@ -1,2 +1,2 @@
 # linuxmint
-Linux Mint
+Linux Mint issue tracker
